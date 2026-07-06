@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Kannur Computers - Start Launcher</title>
+<style>
+body{margin:0;background:#0b1220;color:#fff;font-family:Segoe UI}
+header{background:#111827;padding:18px;text-align:center;border-bottom:2px solid #22c55e}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(180px,1fr));gap:18px;padding:22px}
+.card{background:#1f2937;border-radius:14px;padding:22px;text-align:center;cursor:pointer;transition:.2s}
+.card:hover{transform:scale(1.03);background:#273549}
+.icon{font-size:40px}
+input{width:95%;padding:12px;margin:20px;border-radius:10px;border:none;font-size:16px}
+footer{text-align:center;color:#94a3b8;padding:15px}
+</style>
+<script>
+function searchCards(){
+ let q=document.getElementById('q').value.toLowerCase();
+ document.querySelectorAll('.card').forEach(c=>{
+   c.style.display=c.innerText.toLowerCase().includes(q)?'block':'none';
+ });
+}
+function msg(name){
+ alert("Later you can link: "+name+"\n\nExample:\n./Software/"+name);
+}
+</script>
+</head>
+<body>
+<header>
+<h1>🛠 Kannur Computers Portable Launcher</h1>
+<div>START.HTML - Technician Edition</div>
+</header>
+
+<input id="q" onkeyup="searchCards()" placeholder="🔍 Search Windows, Printer, CCTV, Drivers...">
+
+<div class="grid">
+<div class="card" onclick="msg('Windows ISO')"><div class="icon">💽</div><h3>Windows ISO</h3></div>
+<div class="card" onclick="msg('Printer Drivers')"><div class="icon">🖨️</div><h3>Printer Drivers</h3></div>
+<div class="card" onclick="msg('CCTV Tools')"><div class="icon">📹</div><h3>CCTV Tools</h3></div>
+<div class="card" onclick="msg('Networking')"><div class="icon">🌐</div><h3>Networking</h3></div>
+<div class="card" onclick="msg('Office')"><div class="icon">📦</div><h3>Office</h3></div>
+<div class="card" onclick="msg('Utilities')"><div class="icon">🧰</div><h3>Utilities</h3></div>
+<div class="card" onclick="msg('Remote Support')"><div class="icon">🖥️</div><h3>Remote Support</h3></div>
+<div class="card" onclick="msg('USB Inventory')"><div class="icon">💾</div><h3>USB Inventory</h3></div>
+</div>
+
+<footer>
+Kannur Computers • Offline Portable Launcher • Version 1.0
+</footer>
+</body>
+</html>
