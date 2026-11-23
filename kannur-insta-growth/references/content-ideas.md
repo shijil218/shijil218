@@ -29,7 +29,7 @@ Pick from these and make them specific to what the shop actually did this week.
 - Meet the technician: name, years of experience, favourite repair
 - A day at the shop in 20 seconds
 - Customer reaction when they get their data back (with permission)
-- Shop location: "how to reach us from [landmark/bus stand]"
+- Shop location: "how to reach us: right at Chakkarakal bus stand, near Sana Fancy"
 - Festival greetings: Onam, Vishu, Christmas, Eid, New Year, with a small tech twist
 - Kannur-themed: "every Kannur student's laptop during exam week" meme
 - Answering a real customer question from the DMs

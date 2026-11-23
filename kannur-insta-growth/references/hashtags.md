@@ -3,7 +3,7 @@
 Use 5 to 10 per post: about half local, half service-specific, plus one or two broad tags. Rotate sets so every post isn't identical. Tags with millions of posts bury a small shop's post fast; local and niche tags give it a chance to be seen by people nearby.
 
 ## Local (always include 2–4)
-#kannur #kannurdiaries #kannurcity #kannurkerala #kerala #keralagram #thalassery #payyanur #taliparamba #iritty #mattannur #kannurbusiness #kannurshop
+#kannur #kannurdiaries #kannurcity #kannurkerala #kerala #keralagram #thalassery #payyanur #taliparamba #iritty #mattannur #chakkarakal #mouwanchery #anjarakandy #kannurbusiness #kannurshop
 
 (Only use town tags like #thalassery or #payyanur if the shop actually serves those areas.)
 
