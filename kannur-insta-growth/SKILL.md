@@ -7,6 +7,14 @@ description: Grow the Instagram following of Kannur Computers (computer service 
 
 Helps a local repair shop turn Instagram into a steady source of followers and walk-in customers. The audience is people in and around Kannur (students, office workers, small businesses, gamers, parents) who will one day have a slow laptop, a dead hard disk or a broken screen. The goal is not a big vanity number: it is followers who live nearby and remember the shop when something breaks.
 
+## Shop details
+
+Use these in captions, bios, contact lines and offers. They come from the owner, so use them exactly as written:
+
+- **Phone / WhatsApp:** 9447540218 (write it as +91 94475 40218 in captions; WhatsApp link: https://wa.me/919447540218)
+- **Website:** www.kannurcomputers.com
+- **Address, opening hours, prices:** not given yet. Ask the user, or leave a `[address]` style placeholder.
+
 ## Ground rules (and why)
 
 - **Organic only.** Never suggest buying followers, follow/unfollow, engagement pods, comment bots or third-party "growth" apps that need the Instagram password. Instagram detects these, cuts reach or blocks the account, and fake followers never become customers. If the user asks for any of these, explain this briefly and offer the honest version.
@@ -60,7 +68,7 @@ Structure each caption:
 1. **Hook line** in the language the audience reacts to most (Malayalam by default, short and conversational, Manglish is fine if the user writes that way).
 2. **2–4 lines of value**: what was wrong, what was done, or the tip. Malayalam first, English below, or mixed, matching what the user prefers.
 3. **Call to action**: one clear ask, such as "Save this for later", "Tag a friend whose laptop is slow", or "DM 'FIX' for a quote" / "📍 Visit us at [address]".
-4. **Contact line**: phone/WhatsApp and location, only if known.
+4. **Contact line**: e.g. `📞 +91 94475 40218 (WhatsApp) · 🌐 www.kannurcomputers.com`, plus the location once the address is known.
 5. **Hashtags**: 5 to 10, chosen from `references/hashtags.md`: a mix of local (Kannur/Kerala), service-specific and a couple of broader tech tags. Fewer, relevant tags beat 30 random ones.
 
 Also suggest: on-screen text for the Reel cover, and the location tag ("Kannur, Kerala" or the shop's location page). Offer 2 caption variants when writing for a single post so the user can choose.
@@ -73,10 +81,11 @@ Ask for a screenshot of the profile, or the current bio text, username and highl
 - **Bio** (150 chars): what you do, where, proof, CTA. Example shape:
   `💻 Laptop & PC repair · Data recovery`
   `📍 <area>, Kannur · Same-day service`
-  `📞 WhatsApp for quote 👇`
+  `📞 WhatsApp 94475 40218 for a quote 👇`
+- **Contact buttons**: Call and WhatsApp set to 9447540218.
 - **Profile photo**: logo or shop front, readable at small size.
 - **Account type**: Business account with category "Computer Repair Service", contact buttons (call, WhatsApp, directions) turned on.
-- **Link**: WhatsApp click-to-chat or Google Maps link.
+- **Link**: www.kannurcomputers.com as the main link. Add the WhatsApp link (https://wa.me/919447540218) as a second link, and Google Maps once the address is known. Instagram allows several links.
 - **Highlights**: 4–6 with clear covers, e.g. Services · Before/After · Reviews · Prices · Location · Offers.
 - **Grid**: first 9 posts should show the range of services; pin the 3 best Reels.
 
